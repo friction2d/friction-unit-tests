@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Friction - https://friction.graphics -->
+
+<svg viewBox="0 0 1920 1080" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+ <rect fill="rgba(0, 0, 0, 0)" height="1080" width="1920"/>
+ <g transform="translate(1120 573.115)">
+  <g transform="translate(-160 -33.1147)">
+   <g transform="rotate(0)">
+    <g transform="scale(1 1)">
+     <g transform="skewX(0) skewY(0)">
+      <g opacity="1" transform="translate(-1120 -573.115)">
+       <g>
+        <g transform="translate(160 160)">
+         <g transform="translate(320 413.115)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 1)">
+            <g>
+             <animateTransform repeatCount="indefinite" attributeName="transform" keySplines="0 0 1 1;0 0 1 1" dur="1s" keyTimes="0;0;1" type="skewX" calcMode="spline" values="0;0;26.1"/>
+             <g transform="skewY(0)">
+              <g opacity="1" transform="translate(-160 -160)">
+               <rect x="0" stroke-width="15.6" ry="0" stroke-linecap="round" y="0" fill="rgba(160, 0, 61, 1)" stroke-linejoin="round" height="320" stroke="rgba(0, 255, 255, 1)" width="320" rx="0"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(160 160)">
+         <g transform="translate(960 413.115)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 1)">
+            <g transform="skewX(0)">
+             <animateTransform repeatCount="indefinite" attributeName="transform" keySplines="0 0 1 1;0 0 1 1" dur="1s" keyTimes="0;0;1" type="skewY" calcMode="spline" values="0;0;26.1"/>
+             <g opacity="1" transform="translate(-160 -160)">
+              <rect x="0" stroke-width="15.6" ry="0" stroke-linecap="round" y="0" fill="rgba(160, 0, 207, 1)" stroke-linejoin="round" height="320" stroke="rgba(0, 255, 255, 1)" width="320" rx="0"/>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(160 160)">
+         <g transform="translate(1600 413.115)">
+          <g transform="rotate(0)">
+           <g transform="scale(1 1)">
+            <g>
+             <animateTransform repeatCount="indefinite" attributeName="transform" keySplines="0 0 1 1;0 0 1 1" dur="1s" keyTimes="0;0;1" type="skewX" calcMode="spline" values="0;0;26.1"/>
+             <g>
+              <animateTransform repeatCount="indefinite" attributeName="transform" keySplines="0 0 1 1;0 0 1 1" dur="1s" keyTimes="0;0;1" type="skewY" calcMode="spline" values="0;0;26.1"/>
+              <g opacity="1" transform="translate(-160 -160)">
+               <rect x="0" stroke-width="15.6" ry="0" stroke-linecap="round" y="0" fill="rgba(0, 138, 207, 1)" stroke-linejoin="round" height="320" stroke="rgba(0, 255, 255, 1)" width="320" rx="0"/>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs/>
+</svg>
